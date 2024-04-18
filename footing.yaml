@@ -1,0 +1,9 @@
+_extensions:
+- jinja2_time.TimeExtension
+_template: git@github.com:Opus10/python-library-template.git
+_version: 15cbf67b4eaa0a36c4eaec2c75d71eb6798c959c
+check_types_in_ci: 'True'
+is_django: 'True'
+module_name: pgstrictjson
+repo_name: django-pgstrictjson
+short_description: JSON fields with trigger-based validation.
